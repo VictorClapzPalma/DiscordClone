@@ -1,0 +1,10 @@
+header{
+    flex-direction: row;
+}
+
+.mid-header{
+    height: 200px;
+    
+    display: flex;
+    flex-direction:row;
+  }
